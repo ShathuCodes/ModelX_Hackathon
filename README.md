@@ -40,7 +40,7 @@ The model's performance was tracked during training by plotting the **Loss** and
 
 <img width="1187" height="490" alt="image" src="https://github.com/user-attachments/assets/a32ffc2d-7657-4f0e-8eb0-1d98d3c95e84" />
 
-The final model achieves a training accuracy of **       **.
+The final model achieves a training accuracy of ** 0.91 **.
 
 ## How to Use the Model
 
