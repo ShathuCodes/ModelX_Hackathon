@@ -38,7 +38,7 @@ Instead of using a pre-built library like Scikit-learn, this model is a **Logist
 
 The model's performance was tracked during training by plotting the **Loss** and **Accuracy** over all iterations.
 
-
+<img width="1187" height="490" alt="image" src="https://github.com/user-attachments/assets/a32ffc2d-7657-4f0e-8eb0-1d98d3c95e84" />
 
 The final model achieves a training accuracy of **       **.
 
